@@ -1,33 +1,21 @@
 n = int(input())
-inv = 0 
-v=0 
-m = 'dado inconsistente.'
-neg = 0 
-for i in range(n): 
-    (p, c, a) = [int(num) for num in input().split(' ')] 
-    
-    if p>0 and neg==0:
-        v+=1
-    else:
-        neg=1
-    if c>0 and neg==0:
-        v+=1
-    else:
-        neg=1
-    if a>0 and neg==0:
-        v+=1
-    else:
-        neg=1
-    if inv==0: 
-        if p<0: 
-            print('{} peso negativo.'.format(m)) 
-            inv=1 
-        elif c<0: 
-            print('{} combustível negativo.'.format(m)) 
-            inv=1 
-        elif a<0: 
-            print('{} altitude negativa.'.format(m)) 
-            inv=1 
+contador = 0
+sinalizador = True
+
+for i in range(n):
+    dado = input().split()
+    for e in range(len(dado)):
+        if sinalizador == False:
+            break
+        elif int(dado[e]) >= 0:
+            contador += 1
+        else:
+            sinalizador = False
+            if int(dado[0]) < 0:
+                print('dado inconsistente. peso negativo.')
+            elif int(dado[1]) < 0:
+                print('dado inconsistente. combustível negativo.')
+            elif int(dado[2]) < 0:
+                print('dado inconsistente. altitude negativa.')
         
-        
-print('{} dados válidos.' .format(v))
+print('{} dados válidos.'.format(contador))
