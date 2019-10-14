@@ -5,6 +5,8 @@ Objetivos do projeto:
 
 adaptar o codigo para maneira mais eficiente possivel;
 informar algum bug relacionado ao codigo;
+sem restrição de uso de outras linguagens de programação;
+
 
 As unidades são elaboradas em forma de escalada sendo que podem ser usados recursos da unidades anteriores.
 
