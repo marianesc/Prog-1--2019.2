@@ -1,0 +1,3 @@
+- type: script
+  script: python333 public_tests.py {}
+
