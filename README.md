@@ -24,4 +24,12 @@ UNIDADE 4- Repetição com laços definidos FOR
 
 UNIDADE 5- Repeticao com laços indefinidos WHILE
 
-UNIDADE 6- Função DEF	
+UNIDADE 6- Função DEF
+
+UNIDADE 7- Listas
+
+UNIDADE 8- ARRAYS
+
+UNIDADE 9- MATRIZES
+
+UNIDADE 10- DICIONÁRIOS
