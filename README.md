@@ -16,6 +16,10 @@ UNIDADE 2- Formatação de string
 
 UNIDADE 3- Condição IF, ELIF, ELSE	
 
+## Contribution
+
+* [3Unidade] (https://github.com/andremedeiro/ufcg/tree/master/prog1/exercicios/3Unidade) - 'Alternatives Ways to solving - 3 Unidade'
+
 UNIDADE 4- Repetição com laços definidos FOR
 
 UNIDADE 5- Repeticao com laços indefinidos WHILE

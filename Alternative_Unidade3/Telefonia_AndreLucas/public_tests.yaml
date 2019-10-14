@@ -1,0 +1,15 @@
+- input: |
+    1
+  output: |
+    R$ 1.50
+
+- input: |
+    10
+  output: |
+    R$ 7.00
+
+- input: |
+    14
+  output: |
+    R$ 9.80
+

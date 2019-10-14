@@ -1,0 +1,14 @@
+- input: |
+    2
+    2
+    2
+  output: |
+    triangulo valido. 6
+
+- input: |
+    20
+    10
+    5
+  output: |
+    triangulo invalido.
+
