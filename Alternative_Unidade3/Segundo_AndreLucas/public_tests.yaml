@@ -1,0 +1,11 @@
+- input: |
+    1
+    2
+    3
+    4
+  name: test_exemplo
+  output: |
+    Considerando os números 1, 2, 3 e 4
+    O segundo menor número é 2
+    O segundo maior número é 3
+

@@ -1,0 +1,18 @@
+- input: |
+    Antônio
+    17
+  output: |
+    Antônio, 17 anos, Senior.
+
+- input: |
+    André
+    11
+  output: |
+    André, 11 anos, Juvenil A.
+
+- input: |
+    Eduardo
+    3
+  output: |
+    Eduardo, 3 anos, Não pode competir.
+

@@ -1,0 +1,21 @@
+- input: |
+    100.0
+    1.0
+    vista
+  output: |
+    Total: R$ 80.00
+
+- input: |
+    10
+    10
+    2x
+  output: |
+    Total: R$ 90.00. Parcelas: R$ 45.00
+
+- input: |
+    10
+    10
+    3x
+  output: |
+    Total: R$ 95.00. Parcelas: R$ 31.67
+

@@ -1,0 +1,30 @@
+- input: |
+    1
+    2
+    3
+    4
+    5
+  name: exemplo1
+  output: |
+    sem duplicados
+
+- input: |
+    1
+    7
+    7
+    3
+    6
+  name: exemplo2
+  output: |
+    com duplicados
+
+- input: |
+    10
+    20
+    200
+    200
+    200
+  name: exemplo3
+  output: |
+    com duplicados
+

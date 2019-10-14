@@ -1,0 +1,18 @@
+- input: |
+    A
+    +
+    O
+    +
+  name: exemplo
+  output: |
+    compatível
+
+- input: |
+    B
+    +
+    AB
+    -
+  name: exemplo2
+  output: |
+    incompatível
+
