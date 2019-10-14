@@ -1,0 +1,6 @@
+- input: |
+    1
+  name: exemplo
+  output: |
+    4.19
+

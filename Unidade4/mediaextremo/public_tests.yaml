@@ -1,0 +1,17 @@
+- input: |
+    8
+    3
+    2
+    7
+    1
+    0
+    5
+    2
+    4
+  output: |
+    Menor número: 0
+    Maior número: 7
+    Média dos extremos: 3.50
+    5 número(s) abaixo da média
+    3 número(s) acima da média
+

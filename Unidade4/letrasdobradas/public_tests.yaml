@@ -1,0 +1,17 @@
+- input: |
+    5
+    pizza
+    atum
+    coordenacao
+    martelo
+    costela
+  output: |
+    2 palavra(s) com letras dobradas:
+    pizza
+    coordenacao
+    ---
+    3 palavra(s) sem letras dobradas:
+    atum
+    martelo
+    costela
+

@@ -1,0 +1,12 @@
+- input: |
+    0
+    20
+    80
+  name: test_exemplo
+  output: |
+    Resultado da Votação
+
+    0 abstenções (0.00%)
+    20 a favor (20.00%)
+    80 contra (80.00%)
+

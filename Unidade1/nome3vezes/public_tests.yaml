@@ -1,0 +1,8 @@
+- input: |
+    Dalton
+  name: exemplo
+  output: |
+    Dalton
+    Dalton
+    Dalton
+

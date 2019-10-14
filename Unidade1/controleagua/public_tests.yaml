@@ -1,0 +1,7 @@
+- input: |
+    0.3
+    0.0127
+    1800
+  output: |
+    Quantidade de água = 68.41 litros.
+

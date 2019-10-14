@@ -1,0 +1,11 @@
+- input: |
+    Carlos
+  name: exemplo
+  output: |
+    Oi Carlos
+
+- input: |
+    Carlos
+  output: |
+    Oi Carlos
+

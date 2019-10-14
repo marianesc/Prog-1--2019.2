@@ -1,0 +1,19 @@
+- input: |
+    ola
+    3
+    um exemplo de frase
+    outro ola frase
+    frase
+  name: publico
+  output: |
+    outro ola frase
+
+- input: |
+    oia
+    2
+    nao tem
+    aaaoiaaaa
+  name: outro
+  output: |
+    aaaoiaaaa
+

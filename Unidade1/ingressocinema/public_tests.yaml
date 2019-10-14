@@ -1,0 +1,6 @@
+- input: |
+    2
+    3
+    12
+  output: |
+    Total: R$ 42.00

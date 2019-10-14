@@ -1,0 +1,16 @@
+- input: |
+    110
+    1.80
+  name: test_name
+  output: |
+    IMC atual = 33.95
+    Peso a ser ganho/perdido = -29.32
+
+- input: |
+    78
+    1.54
+  name: test_name
+  output: |
+    IMC atual = 32.89
+    Peso a ser ganho/perdido = -18.95
+

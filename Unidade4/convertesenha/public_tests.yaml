@@ -1,0 +1,15 @@
+- input: |
+    Python
+  output: |
+    Pyth0n (1 troca(s))
+
+- input: |
+    ZENIT
+  output: |
+    Z3N1T (2 troca(s))
+
+- input: |
+    Abacateiro
+  output: |
+    Ab4c4t31r0 (5 troca(s))
+

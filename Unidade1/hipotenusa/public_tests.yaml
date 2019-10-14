@@ -1,0 +1,6 @@
+- input: |
+    3.0
+    4.0
+  output: |
+    Medida do Cateto 1? Medida do Cateto 2? Medida da Hipotenusa: 5.00
+

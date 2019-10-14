@@ -1,0 +1,14 @@
+- input: |
+    operação realizada
+    100
+  name: test_exemplo
+  output: |
+    operação realizada - 400
+
+- input: |
+    operação negada
+    50
+  name: test_exemplo2
+  output: |
+    operação negada - 350
+

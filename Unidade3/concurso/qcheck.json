@@ -1,0 +1,11 @@
+{
+  "quality": [
+    {
+      "cc": 5,
+      "pep8": 0,
+      "lloc": 21,
+      "vhalstead": 262.33,
+      "header": 3
+    }
+  ]
+}

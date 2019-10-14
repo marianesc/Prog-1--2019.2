@@ -1,0 +1,10 @@
+- input: |
+    5
+  output: |2
+        o
+       ooo
+      ooooo
+     ooooooo
+    ooooooooo
+        o
+

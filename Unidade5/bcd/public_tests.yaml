@@ -1,0 +1,14 @@
+- input: |
+    11110101
+    fim
+  name: exemplo1
+  output: |
+    BCD inválido.
+
+- input: |
+    1111
+    fim
+  name: exemplo2
+  output: |
+    Tente novamente.
+

@@ -1,0 +1,12 @@
+- input: |
+    880
+    144
+  output: |
+    Salário Bruto = 880.00
+    Hora Bruta = 6.11
+    Desconto IR = 96.80
+    Desconto INSS = 70.40
+    Desconto Sindicato = 44.00
+    Salário Líquido = 668.80
+    Hora Líquida = 4.64
+

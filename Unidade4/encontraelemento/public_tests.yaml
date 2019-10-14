@@ -1,0 +1,12 @@
+- input: |
+    7
+    1 5 3 2 88 9 2
+  output: |
+    não
+
+- input: |
+    7
+    1 5 7 2 88 9 2
+  output: |
+    sim
+

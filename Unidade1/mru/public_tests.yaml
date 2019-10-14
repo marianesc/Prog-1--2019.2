@@ -1,0 +1,8 @@
+- input: |
+    100.0
+    20.0
+    22.5
+  output: |
+    Posição final do móvel
+    S(22.5) = 550.0 m
+

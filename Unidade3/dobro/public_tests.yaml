@@ -1,0 +1,12 @@
+- input: |
+    5
+    10
+  output: |
+    SIM
+
+- input: |
+    3
+    3
+  output: |
+    NAO
+

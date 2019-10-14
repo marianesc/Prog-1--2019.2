@@ -1,0 +1,12 @@
+- input: |
+    678.0
+  output: |
+    O valor da contribuição do INSS a ser pago pelo empregador é de R$ 81.36
+    O valor da contribuição do INSS a ser pago pelo empregado é de R$ 54.24
+
+- input: |
+    3500.0
+  output: |
+    O valor da contribuição do INSS a ser pago pelo empregador é de R$ 420.00
+    O valor da contribuição do INSS a ser pago pelo empregado é de R$ 385.00
+

@@ -1,0 +1,18 @@
+- input: |
+    Antônio
+    5
+  output: |
+    Antônio, 5 anos, Infantil A.
+
+- input: |
+    André
+    9
+  output: |
+    André, 9 anos, Infantil B.
+
+- input: |
+    Eduardo
+    3
+  output: |
+    Eduardo, 3 anos, Não pode competir.
+

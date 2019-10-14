@@ -1,0 +1,22 @@
+- input: |
+    3
+    -7
+    2
+  output: |
+    x1 = 2.00
+    x2 = 0.33
+
+- input: |
+    5
+    -6
+    5
+  output: |
+    sem raizes reais
+
+- input: |
+    -1
+    4
+    -4
+  output: |
+    x = 2.00
+

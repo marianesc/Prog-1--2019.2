@@ -1,0 +1,9 @@
+- input: |
+    240
+    80
+    80
+  output: |
+    Teresa vendeu 80 (de 240) brinquedos. (33.33%)
+    Joaquim vendeu 80 (de 240) brinquedos. (33.33%)
+    Carla vendeu 80 (de 240) brinquedos. (33.33%)
+

@@ -1,0 +1,7 @@
+- input: |
+    100
+  output: |
+    Jardas: 109.361 yd
+    Pés: 328.084 ft
+    Polegadas: 3937.008 in
+

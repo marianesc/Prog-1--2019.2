@@ -1,0 +1,7 @@
+- input: |
+    Carolina
+    10
+  name: exemplo
+  output: |
+    Nome? Letra? R$ Orçamento: R$ 80.0
+

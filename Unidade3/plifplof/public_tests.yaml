@@ -1,0 +1,14 @@
+- input: |
+    5
+    2
+    3
+  output: |
+    plof
+
+- input: |
+    4
+    4
+    4
+  output: |
+    plif
+

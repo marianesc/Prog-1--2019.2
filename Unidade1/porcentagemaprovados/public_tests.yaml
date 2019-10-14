@@ -1,0 +1,11 @@
+- input: |
+    42
+    17
+  output: |
+    Análise da Turma
+    ===
+    Número de aprovados? Número de reprovados? ---
+    Total de alunos na turma: 59
+    Aprovados: 42 = 71.2%
+    Reprovados: 17 = 28.8%
+

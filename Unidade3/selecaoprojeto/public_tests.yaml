@@ -1,0 +1,16 @@
+- input: |
+    8
+    7
+    2
+  name: exemplo
+  output: |
+    Candidato classificado.
+
+- input: |
+    8.9
+    7
+    4
+  name: exemplo2
+  output: |
+    Candidato aprovado.
+

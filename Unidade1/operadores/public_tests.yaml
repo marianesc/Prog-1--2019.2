@@ -1,0 +1,21 @@
+- input: |
+    4
+    2
+  name: exemplo
+  output: |
+    ===== Operadores =====
+    A = 4
+    B = 2
+    Adição = 6
+    Subtração = 2
+    Multiplicação = 8
+    Divisão = 2
+    Resto = 0
+    Exponenciação = 16
+    Negação de A = -4
+    A é igual a B? False
+    A é diferente de B? True
+    A é maior que B? True
+    B é maior que A? False
+    A é menor ou igual a B? False
+

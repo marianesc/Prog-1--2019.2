@@ -1,0 +1,7 @@
+- input: |
+    2
+    5.0
+  name: exemplo
+  output: |
+    R$ 200.00
+

@@ -1,0 +1,7 @@
+- input: |
+    100
+    3
+  name: exemplo
+  output: |
+    Reais? Cotação? Conversão: $ 300.0
+

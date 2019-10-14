@@ -1,0 +1,16 @@
+- input: |
+    0.1
+    6.0
+    0.3
+    5.0
+    0.6
+    7.0
+  output: |
+    == Estágio 1 ==
+    Peso? Nota? == Estágio 2 ==
+    Peso? Nota? == Estágio 3 ==
+    Peso? Nota? == Resultados ==
+    Média parcial: 6.3
+    Nota na final, pra média 5.0 = 3.0
+    Nota na final, pra média 7.0 = 8.0
+

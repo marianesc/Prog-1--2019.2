@@ -1,0 +1,6 @@
+- input: |
+    6.0
+    5.0
+  output: |
+    Média final: 5.6
+

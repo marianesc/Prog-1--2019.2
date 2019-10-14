@@ -1,0 +1,16 @@
+- input: |
+    123
+    345
+    567
+  name: test_exemplo1
+  output: |
+    123.345.567-18
+
+- input: |
+    123
+    345
+    501
+  name: test_exemplo2
+  output: |
+    123.345.501-06
+

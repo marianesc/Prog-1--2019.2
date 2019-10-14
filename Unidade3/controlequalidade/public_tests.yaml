@@ -1,0 +1,21 @@
+- input: |
+    4.5
+    1.0
+  output: |
+    77.8% do peso do produto é de água congelada.
+    Produto não conforme.
+
+- input: |
+    10.0
+    9.8
+  output: |
+    2.0% do peso do produto é de água congelada.
+    Produto qualis A.
+
+- input: |
+    10.0
+    9.3
+  output: |
+    7.0% do peso do produto é de água congelada.
+    Produto em conformidade.
+

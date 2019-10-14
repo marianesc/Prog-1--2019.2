@@ -1,0 +1,20 @@
+- input: |
+    66
+  name: test_exemplo1
+  output: |
+    Idade? idoso (meia entrada)
+
+- input: |
+    10
+  name: test_exemplo2
+  output: |
+    Idade? criança (meia entrada)
+
+- input: |
+    18
+    s
+    s
+  name: test_exemplo3
+  output: |
+    Idade? Estudante? Rede Pública? estudante da rede pública (isento)
+

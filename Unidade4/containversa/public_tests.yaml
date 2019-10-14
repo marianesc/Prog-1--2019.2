@@ -1,0 +1,10 @@
+- input: |
+    onibus
+  output: |
+    A palavra onibus contém 0 caractere(s) coincidente(s) com a sua inversa.
+
+- input: |
+    carro
+  output: |
+    A palavra carro contém 1 caractere(s) coincidente(s) com a sua inversa.
+

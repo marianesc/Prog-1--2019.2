@@ -1,0 +1,9 @@
+- input: |
+    2.5
+    6.0
+  output: |
+    Cálculo da Superfície de um Cilindro
+    ---
+    Medida do diâmetro? Medida da altura? ---
+    Área calculada: 56.94
+

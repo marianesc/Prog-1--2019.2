@@ -1,0 +1,7 @@
+- input: |
+    12.1
+    10.1
+    12
+  output: |
+    10 casa(s) pode(m) ser construída(s) no terreno.
+

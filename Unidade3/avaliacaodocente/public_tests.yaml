@@ -1,0 +1,36 @@
+- input: |
+    3
+    340
+    120
+    40 
+    500
+  output: |
+    Promoção indeferida. Número de semestres insuficiente.
+
+- input: |
+    4
+    300
+    120
+    40
+    500
+  output: |
+    Promoção indeferida. Pontuação mínima não alcançada.
+
+- input: |
+    4
+    320
+    110
+    20
+    10
+  output: |
+    Promoção indeferida. Média insuficiente.
+
+- input: |
+    4
+    330
+    150
+    40
+    350
+  output: |
+    Promoção deferida. Parabéns!
+

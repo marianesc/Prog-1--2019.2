@@ -1,0 +1,17 @@
+- input: |
+    4
+    Campinense
+    4
+    Santa Cruz
+    4
+    Náutico
+    3
+    Uniclinic
+    0
+  name: test_do exemplo
+  output: |
+    1. Campinense (4)
+    1. Santa Cruz (4)
+    3. Náutico (3)
+    4. Uniclinic (0)
+

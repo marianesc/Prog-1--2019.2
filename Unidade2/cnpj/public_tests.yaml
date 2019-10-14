@@ -1,0 +1,12 @@
+- input: |
+    12.001.111
+  name: test_exemplo1
+  output: |
+    12.001.111/0001-08
+
+- input: |
+    23.345.501
+  name: test_exemplo2
+  output: |
+    23.345.501/0001-24
+
