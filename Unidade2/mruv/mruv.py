@@ -22,4 +22,3 @@ print("             Tempo: {0:.2f} s".format(t))
 print("  Velocidade final: {0:.2f} m/s".format(v))
 print("  Velocidade média: {0:.2f} m/s".format(vm))
 print("     Posição final: {0:.2f} m".format(s))
-
