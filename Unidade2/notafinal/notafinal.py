@@ -7,4 +7,4 @@ mparcial = float(input())
 
 final = (5-(mparcial*0.6))/0.4
 
-print("%.1f"%final)
+print("{0:.1f}".format(final))
