@@ -9,4 +9,4 @@ t = float(input())
 
 st = s0 +(v*t)
 
-print("%.2f"%st)
+print("{0:.2f}".format(st))
