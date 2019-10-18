@@ -1,0 +1,8 @@
+chave = input()
+n = int(input())
+
+for i in range(n):
+  frase = input()
+  
+  if chave in frase:
+    print(frase)
