@@ -1,0 +1,36 @@
+salario_bruto = float(input())
+dias = int(input())
+transporte_diario = float(input())
+
+custo_transporte = dias * transporte_diario
+seis_porcento_de_bruto = (salario_bruto * 6) / 100
+fgts = (salario_bruto * 8) / 100
+inss_empregador = (salario_bruto * 12) / 100
+inss_empregado_8 = (salario_bruto * 8) / 100
+inss_empregado_9 = (salario_bruto * 9) / 100
+inss_empregado_11 = (salario_bruto * 11) / 100
+
+if custo_transporte > seis_porcento_de_bruto:
+    diferença = custo_transporte - seis_porcento_de_bruto
+if salario_bruto <= 1317.07:
+    inss_empregado = inss_empregado_8
+elif salario_bruto >= 1317.08 and salario_bruto <= 2195.12:
+    inss_empregado = inss_empregado_9
+else:
+    inss_empregado = inss_empregado_12
+
+if custo_transporte > seis_porcento_de_bruto:
+    custo_mensal = diferença + fgts + inss_empregador + salario_bruto
+elif custo_transporte < seis_porcento_de_bruto:
+    custo_mensal = fgts + inss_empregador + salario_bruto
+
+if custo_transporte > seis_porcento_de_bruto:
+    custo_transporte_empregado = seis_porcento_de_bruto
+else:
+    custo_transporte_empregado = custo_transporte
+    
+salario_liquido = salario_bruto - inss_empregado - custo_transporte_empregado
+
+print("salário bruto = R$ {:.2f}".format(salario_bruto))
+print("custo mensal = R$ {:.2f}".format(custo_mensal))
+print("salário líquido = R$ {:.2f}".format(salario_liquido))

@@ -10,5 +10,5 @@ raio = ((lado**2+lado**2)**(1/2))/2
 perimetro = 2 * math.pi * raio
 area = math.pi * raio**2 
 
-print("Perímetro: %.5f"%(perimetro))
-print("Área: %.5f"%(area))
+print("Perímetro: {0:.5f}".format(perimetro))
+print("Área: {0:.5f}".format(area))
